@@ -1,0 +1,14 @@
+---
+description: Swift 6 and SwiftUI are the default. Honor TRACK.md.
+globs:
+  - "**/*.{swift,md}"
+alwaysApply: true
+---
+
+# Swift 6
+
+- Language mode: Swift 6. Strict concurrency.
+- UI: SwiftUI unless an approved ADR says otherwise.
+- No force-unwrap / `try!` on production paths without an ADR.
+- Prefer actors and `Sendable` over GCD-first designs.
+- Read `TRACK.md`. Do not add iPad layout work on an iPhone-only track (and vice versa) unless the spec changed.

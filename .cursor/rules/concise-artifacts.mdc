@@ -1,0 +1,12 @@
+---
+description: Plans and ADRs stay short and structured.
+globs:
+  - "**/*.md"
+alwaysApply: true
+---
+
+# Concise artifacts
+
+Plans under `.cursor/plans/` are working documents, not essays.
+Prefer tables, numbered requirements, and acceptance criteria.
+One sentence per line in prose.

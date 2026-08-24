@@ -1,0 +1,12 @@
+---
+description: One ticket at a time. Small diffs.
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+# Incremental changes
+
+Implement one sprint ticket per `@run-ticket-plan`.
+Do not refactor unrelated modules.
+Do not add a second platform or a companion app unless that ticket exists.
