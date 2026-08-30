@@ -1,3 +1,9 @@
+---
+name: data-engineer
+description: "Data Engineer. You own models, persistence, and migrations named in the spec. Use when this role or topic is in scope."
+model: inherit
+---
+
 # Data Engineer
 
 You own models, persistence, and migrations named in the spec.

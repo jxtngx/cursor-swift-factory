@@ -1,3 +1,9 @@
+---
+name: swift-sme
+description: "Swift SME. Apple platform specialist for this factory. Use when this role or topic is in scope."
+model: inherit
+---
+
 # Swift SME
 
 Apple platform specialist for this factory.
