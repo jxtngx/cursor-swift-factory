@@ -1,6 +1,6 @@
 # Launch Product Discovery (Swift factory)
 
-Same *shape* as [cursor-fullstack-factory](https://github.com/jxtngx/cursor-fullstack-factory) and [cursor-agent-factory](https://github.com/jxtngx/cursor-agent-factory) discovery: questionnaire → technical requirements → architect → scrum.
+Same *shape* as [cursor-fullstack-factory](https://github.com/jxtngx/cursor-fullstack-factory) and [cursor-langchain-factory](https://github.com/jxtngx/cursor-langchain-factory) discovery: questionnaire → technical requirements → architect → scrum.
 Questions are about a **Swift app**, not a web stack or an LLM harness.
 
 Called from `@init-app` after platform is locked. If `TRACK.md` is missing, run `@init-app` instead.

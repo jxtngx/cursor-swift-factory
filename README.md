@@ -8,7 +8,7 @@ Cursor's team implements from a spec you write in the first session.
 > **Lab** = student writes the code. Mentors quiz and review.
 > **Factory** = you define requirements. Chief Architect, SME, Scrum, and engineers ship tickets.
 
-Sister factories: [cursor-agent-factory](https://github.com/jxtngx/cursor-agent-factory) · [cursor-fullstack-factory](https://github.com/jxtngx/cursor-fullstack-factory) · [cursor-deep-learning-factory](https://github.com/jxtngx/cursor-deep-learning-factory).
+Sister factories: [cursor-langchain-factory](https://github.com/jxtngx/cursor-langchain-factory) · [cursor-fullstack-factory](https://github.com/jxtngx/cursor-fullstack-factory) · [cursor-deep-learning-factory](https://github.com/jxtngx/cursor-deep-learning-factory).
 
 This factory is tightly coupled to **Swift 6**, **SwiftUI**, and **Swift Package Manager**.
 One generated product, one primary platform.
@@ -29,7 +29,7 @@ That command:
 
 1. Asks **iOS, macOS, or Watch App** (one generated product, one primary platform)
 2. If **iOS**, asks **iPhone, iPad, or Universal**
-3. Walks the same style of **requirements interview** as [cursor-fullstack-factory](https://github.com/jxtngx/cursor-fullstack-factory) / [cursor-agent-factory](https://github.com/jxtngx/cursor-agent-factory)
+3. Walks the same style of **requirements interview** as [cursor-fullstack-factory](https://github.com/jxtngx/cursor-fullstack-factory) / [cursor-langchain-factory](https://github.com/jxtngx/cursor-langchain-factory)
 4. Writes `.cursor/plans/project-init/<name>-technical-requirements.plan.md`
 5. Writes `TRACK.md` (`ios-iphone` | `ios-ipad` | `ios-universal` | `macos` | `watchos`)
 6. Hands off to `@chief-architect` → `@swift-sme` → `@scrum-master` → tickets
@@ -115,7 +115,7 @@ The platforms you did **not** pick stay in `templates/` as reference and are not
 
 | Repo | Kind |
 | --- | --- |
-| [cursor-agent-factory](https://github.com/jxtngx/cursor-agent-factory) | Factory — LangChain agents |
+| [cursor-langchain-factory](https://github.com/jxtngx/cursor-langchain-factory) | Factory — LangChain agents |
 | [cursor-fullstack-factory](https://github.com/jxtngx/cursor-fullstack-factory) | Factory — fullstack product |
 | [cursor-deep-learning-factory](https://github.com/jxtngx/cursor-deep-learning-factory) | Factory — PyTorch / HF |
 | [cursor-rust-lab](https://github.com/jxtngx/cursor-rust-lab) | Lab — you write the code |
