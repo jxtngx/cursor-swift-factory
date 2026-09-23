@@ -1,3 +1,9 @@
+---
+name: launch-product-discovery
+description: Launch Product Discovery (Swift factory)
+disable-model-invocation: true
+---
+
 # Launch Product Discovery (Swift factory)
 
 Same *shape* as [cursor-fullstack-factory](https://github.com/jxtngx/cursor-fullstack-factory) and [cursor-langchain-factory](https://github.com/jxtngx/cursor-langchain-factory) discovery: questionnaire → technical requirements → architect → scrum.

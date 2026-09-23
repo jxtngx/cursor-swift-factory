@@ -1,3 +1,9 @@
+---
+name: review-swift
+description: Review Swift
+disable-model-invocation: true
+---
+
 # Review Swift
 
 PR-style review of the current ticket diff.
