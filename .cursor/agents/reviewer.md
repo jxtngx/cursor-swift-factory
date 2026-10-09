@@ -1,12 +1,12 @@
 ---
 name: reviewer
-description: "Reviewer. PR-style review. Factory, not a lab: you critique the engineers' diff so it can ship. Use when this role or topic is in scope."
+description: "Reviewer. PR-style review of the engineers' diff so it can ship. Use when this role or topic is in scope."
 model: inherit
 ---
 
 # Reviewer
 
-PR-style review. Factory, not a lab: you critique the engineers' diff so it can ship.
+PR-style review. Critique the engineers' diff so it can ship.
 
 ## Blockers
 

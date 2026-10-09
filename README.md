@@ -1,19 +1,16 @@
 # Cursor Swift Factory
 
-A **factory**, not a lab.
+A **factory**.
 
 This repo is boilerplate for a new Swift application.
 Cursor's team implements from a spec you write in the first session.
 
-> **Lab** = student writes the code. Mentors quiz and review.
-> **Factory** = you define requirements. Chief Architect, SME, Scrum, and engineers ship tickets.
+You define requirements. Chief Architect, SME, Scrum, and engineers ship tickets.
 
 Sister factories: [cursor-langchain-factory](https://github.com/jxtngx/cursor-langchain-factory) · [cursor-fullstack-factory](https://github.com/jxtngx/cursor-fullstack-factory) · [cursor-deep-learning-factory](https://github.com/jxtngx/cursor-deep-learning-factory).
 
 This factory is tightly coupled to **Swift 6**, **SwiftUI**, and **Swift Package Manager**.
 One generated product, one primary platform.
-
-If you wanted to *learn* Swift by typing every type yourself, that would be a lab. This is not that.
 
 ---
 
@@ -118,10 +115,6 @@ The platforms you did **not** pick stay in `templates/` as reference and are not
 | [cursor-langchain-factory](https://github.com/jxtngx/cursor-langchain-factory) | Factory — LangChain agents |
 | [cursor-fullstack-factory](https://github.com/jxtngx/cursor-fullstack-factory) | Factory — fullstack product |
 | [cursor-deep-learning-factory](https://github.com/jxtngx/cursor-deep-learning-factory) | Factory — PyTorch / HF |
-| [cursor-rust-lab](https://github.com/jxtngx/cursor-rust-lab) | Lab — you write the code |
-| [cursor-cuda-lab](https://github.com/jxtngx/cursor-cuda-lab) | Lab |
-| [cursor-langchain-lab](https://github.com/jxtngx/cursor-langchain-lab) | Lab |
-| [cursor-robotics-lab](https://github.com/jxtngx/cursor-robotics-lab) | Lab |
 
 ---
 

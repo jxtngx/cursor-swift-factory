@@ -107,4 +107,4 @@ Then @scrum-master for the first sprint.
 - Generate a second platform as the product
 - Replace SwiftUI with a UIKit-first default
 - Commit signing identities, `.p8`, or provisioning profiles
-- Pretend this is a lab (do not tell the user to write the app themselves unless they asked to learn)
+- Tell the user to write the app themselves
